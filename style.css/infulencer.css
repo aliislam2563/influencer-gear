@@ -61,7 +61,7 @@ nav li{
 }
 
 .head-bg-img{
-    background-image: url(/images/Circle\ design.svg);
+    background-image: url("/images/Circle\ design.svg"); /*trying to adding this circle*/ 
     background-repeat: no-repeat;
     width: 475px;
     height: 475px;
